@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "D462BB30-9CC0-476E-9D58-530C684B6F3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19,
+    "width": 14,
+    "x": 176,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D6369260-DF04-4B11-B980-4A1F5F426C6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79BEFB75-94BD-4BB3-A9D6-A678441D23EF"
+    }
+  ],
+  "name": "male-avatar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
